@@ -1,3 +1,7 @@
+# Description
+1. This project is learned about nestjs with prismaorm CRUD
+2. Prisma with mysql one to one one to many many to many methods used.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
